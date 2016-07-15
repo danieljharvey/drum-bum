@@ -1,0 +1,9 @@
+# git ignore
+
+# audio and other big files
+*.wav
+*.zip
+*.mp3
+*.mp4
+*.sql
+*.ogg
